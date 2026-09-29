@@ -1,16 +1,45 @@
-# React + Vite
+# Milena Harrison - React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This is my personal portfolio website created for my Web Application Development course.
 
-Currently, two official plugins are available:
+The portfolio was developed using React and Vite. It showcases my education, projects, skills, services, and development experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Home page with introduction
+- About Me section
+- Projects section
+- Education section
+- Services section
+- Contact form
+- Downloadable resume
+- Responsive website design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Projects Featured
 
-## Expanding the Oxlint configuration
+### SalonEase - Hair Salon Booking System
+A software system designed to make salon appointment booking easier for customers and salon staff.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### React Portfolio Website
+A personal portfolio website created with React to showcase my education, projects, skills, and development experience.
+
+### Oracle SQL Database Project
+A database project demonstrating SQL queries and relational database concepts using Oracle SQL.
+
+## Technologies Used
+
+- React
+- Vite
+- JavaScript
+- JSX
+- CSS
+- HTML
+- Git
+- GitHub
+- Vercel
+
+## Author
+
+Milena Harrison  
+Software Engineering Technician Student  
+Centennial College
