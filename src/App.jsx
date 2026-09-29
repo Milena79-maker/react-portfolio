@@ -68,7 +68,7 @@ function App() {
   alt="SalonEase Hair Salon Booking System"
   className="project-image"
 />
-        <h3>React Portfolio Websit</h3>
+        <h3>SalonEase - Hair Salon Booking System</h3>
         <p>
           A software system designed to make salon appointment booking
           easier for customers and salon staff.
